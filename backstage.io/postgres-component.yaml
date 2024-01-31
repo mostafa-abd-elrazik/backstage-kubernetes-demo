@@ -4,7 +4,7 @@ metadata:
   name: postgres
   description: postgres
   annotations:
-    backstage.io/kubernetes-id: postgres
+    backstage.io/kubernetes-id: test
   tags:
     - postgres
 
