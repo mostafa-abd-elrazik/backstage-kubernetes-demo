@@ -6,6 +6,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: test
     backstage.io/techdocs-ref: test
+    backstage.io/techdocs-entity: test
   tags:
     - postgres
 
